@@ -3,6 +3,10 @@
 ## Overview
 The **ArXiv Paper Recommendation System** is a web application designed to help researchers discover relevant papers from the ArXiv repository based on their research interests or paper abstracts. By using sentence embeddings and cosine similarity, the system matches user input with the most relevant papers in the dataset, ensuring accurate recommendations. Built with Streamlit for a simple user interface, this system leverages advanced NLP techniques via the SentenceTransformers library to compute high-quality embeddings of research paper abstracts. The app is ideal for researchers looking to explore papers that align with their interests, making it easy to stay up-to-date with the latest research.
 
+## Demo Video
+[ArXiv Paper Recommender System.webm](https://github.com/user-attachments/assets/6eb7be74-ae76-4d51-9fc1-fd4989b90f07)
+
+
 ## Features
 - **Content-Based Filtering**: Recommends papers using textual analysis of abstracts.
 - **User Profiling**: Captures user preferences for personalized recommendations.
