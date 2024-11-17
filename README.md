@@ -8,6 +8,7 @@ The **ArXiv Paper Recommendation System** is a web application designed to help 
 - **User Profiling**: Captures user preferences for personalized recommendations.
 - **Natural Language Processing**: Extracts and processes key features from paper abstracts.
 - **Interactive Interface**: Provides an easy-to-use system for researchers.
+- **Top-N Recommendations**: Get up to 5 highly relevant research papers.
 
 ## Tech Stack
 - **Python**: The programming language used for the development of the entire project.
